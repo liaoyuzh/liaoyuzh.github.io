@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
-
+<head>
+	<script src="js/exercise.js" type="text/javascript"></script>
+	<script src='https://code.jquery.com/jquery-3.1.0.min.js'></script>
+</head>
 
 <body>
 
@@ -8,21 +11,36 @@
   	<ol>
 
 		<div>
-		  <h3>1: show time</h3>
-		  <div id="practice1"></div>
+		    <h2>1: Display current time</h2>
+		    <div id="practice1"></div>
 		</div>
 
 		<div>
-		  <h3>2: print page</h3>
-		  <button onclick="printButton()">Print current page</button>
-		  <div id="practice2"></div>
+			<h2>2: Print current page button</h2>
+			<button onclick="printButton()">Print current page</button>
+			<div id="practice2"></div>
 		</div>
+
+		<div>
+			<h2>3: Display current date</h2>
+			<div id="practice3"></div>
+		</div>
+
+		<div>
+			<h2>4: Input box allowing users to input 3 sides to calculate the area of the triangle </h2>
+			1st side <input type="text" id="side1" value=""> <br>
+			2nd side <input type="text" id="side2" value=""> <br>
+			3rd side <input type="text" id="side3" value=""> <br>      
+			<p id="area" onclick="findArea()">Calculate Area</p>
+			<div id="practice4"></div>
+		</div>
+
 
 	</ol>
 	<h2>Related Resources</h2>
 		<a href = "http://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php"> Practice Question Sources</a>
 
-	<script>
+<!-- 	<script>
 	function displayDate(){
 		var today = new Date();
 		var dd = today.getDate();
@@ -48,11 +66,10 @@
 	function printButton() {
 	    window.print();
 	}
-	</script>
+	</script> -->
 </body>
 
-<!-- <script type="js/exercise" type="text/javascript"></script>
-<script src='https://code.jquery.com/jquery-3.1.0.min.js'></script> -->
+
 
 </html>
 
