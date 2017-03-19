@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+
+<body>
+
+  	<h1>JavaScript 10 practice questions</h1>
+  	<ol>
+
+		<div>
+		  <h3>1: show time</h3>
+		  <div id="practice1"></div>
+		</div>
+
+		<div>
+		  <h3>2: print page</h3>
+		  <button onclick="printButton()">Print current page</button>
+		  <div id="practice2"></div>
+		</div>
+
+	</ol>
+	<h2>Related Resources</h2>
+		<a href = "http://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php"> Practice Question Sources</a>
+
+	<script>
+	function displayDate(){
+		var today = new Date();
+		var dd = today.getDate();
+		var mm = today.getMonth()+1; //January is 0!
+		var yyyy = today.getFullYear();
+
+		if(dd<10) {
+		    dd='0'+dd
+		} 
+
+		if(mm<10) {
+		    mm='0'+mm
+		} 
+
+		today = mm+'/'+dd+'/'+yyyy;
+		return today;
+	}
+
+	window.onload = function() {
+		document.getElementById('practice1').innerHTML = "Date: " + displayDate();
+	}
+
+	function printButton() {
+	    window.print();
+	}
+	</script>
+</body>
+
+<!-- <script type="js/exercise" type="text/javascript"></script>
+<script src='https://code.jquery.com/jquery-3.1.0.min.js'></script> -->
+
+</html>
+
