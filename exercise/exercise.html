@@ -28,10 +28,11 @@
 
 		<div>
 			<h2>4: Input box allowing users to input 3 sides to calculate the area of the triangle </h2>
-			1st side <input type="text" id="side1" value=""> <br>
-			2nd side <input type="text" id="side2" value=""> <br>
-			3rd side <input type="text" id="side3" value=""> <br>      
-			<p id="area" onclick="findArea()">Calculate Area</p>
+			<form action="" method="post" id="triArea">  
+			<label for="side1"> 1st side </label><input type="text" id="side1" name="side1"> 
+			<label for="side2"> 2nd side </label><input type="text" id="side2" name="side2"> 
+			<label for="side3"> 3rd side </label><input type="text" id="side3" name="side3">     
+			<input type="submit" value="Calculate" id="submit"> </form>
 			<div id="practice4"></div>
 		</div>
 

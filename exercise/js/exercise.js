@@ -29,6 +29,7 @@ function displayTime(){
 window.onload = function() {
 	document.getElementById('practice1').innerHTML = "Date: " + displayDate();
 	document.getElementById('practice3').innerHTML = "Time: " + displayTime();
+	document.getElementById('triArea').onsubmit = "Calculated Area: " + findArea();
 
 }
 
@@ -36,9 +37,9 @@ function findArea(){
 	var side1 = document.getElementById('side1').value;
 	var side2 = document.getElementById('side2').value;
 	var side3 = document.getElementById('side3').value;
-	var perimeter = (side1 + side2 + side3) / 2;
-	var area =  Math.sqrt(perimeter*((perimeter - side1) * (perimeter - side2) * (perimeter - side3)));
-	document.getElementById('area').innerHTML = "Calculated Area: " + area;
+	var halfP = (side1 + side2 + side3)/2;
+	var area =  Math.sqrt(halfP * (halfP - a) * (halfP - b) * (halfP - c));
+	return area;
 }
 
 function printButton() {
