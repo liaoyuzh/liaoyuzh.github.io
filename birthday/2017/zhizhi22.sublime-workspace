@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "zhizhi22.html",
+			"settings":
+			{
+				"buffer_size": 600,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "zhizhi22.js",
+			"settings":
+			{
+				"buffer_size": 1856,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "c++",
+		"selected_items":
+		[
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"set latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"set",
+				"Set Syntax: C++"
+			],
+			[
+				"setpython",
+				"Set Syntax: Python"
+			],
+			[
+				"python",
+				"Build With: Python"
+			],
+			[
+				"set python",
+				"Set Syntax: Python"
+			],
+			[
+				"set c++",
+				"Set Syntax: C++"
+			],
+			[
+				"myC",
+				"Build With: myC++"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"sublime.executable_path()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/lab5.s",
+		"/C/Users/Terre/dev/github/Happy-Birthday/js/jquery.js",
+		"/C/Users/Terre/AppData/Roaming/Sublime Text 3/Packages/Typescript/NIOS-II.JSON-tmLanguage",
+		"/C/Users/Terre/Desktop/新建文件夹/JSpractice.js",
+		"/C/Users/Terre/Desktop/新建文件夹/hello.html",
+		"/C/Users/Terre/dev/liaoyuzh.github.io/exercise/js/exercise.js",
+		"/C/Users/Terre/dev/liaoyuzh.github.io/exercise/exercise.html",
+		"/C/Users/Terre/dev/zhizhi22/example.js",
+		"/C/Users/Terre/dev/liaoyuzh.github.io/index.html",
+		"/C/Users/Terre/dev/zhizhi22/zhizhi22.js",
+		"/C/Users/Terre/dev/zhizhi22/zhizhi22.html",
+		"/C/Users/Terre/dev/liaoyuzh.github.io/exercise/exercise.js",
+		"/C/Users/Terre/dev/liaoyuzh.github.io/css/style.css",
+		"/C/Users/Terre/dev/liaoyuzh.github.io/js/main.js",
+		"/C/Users/Terre/dev/liaoyuzh.github.io/js/exercise.js",
+		"/C/Users/Terre/dev/liaoyuzh.github.io/main.js",
+		"/C/Users/Terre/dev/liaoyuzh.github.io/style.css",
+		"/C/Users/Terre/dev/liaoyuzh.github.io/CNAME",
+		"/D/ece221lab4/plotcharge2.m",
+		"/D/ece221lab4/main.m",
+		"/D/ece221lab4/plotcharge.m",
+		"/D/ece221lab4/sphereofcharge.m",
+		"/C/Users/Terre/Desktop/libstreetmap/tests/tester_main.cpp",
+		"/C/Users/Terre/Desktop/libstreetmap/tests/m1_func_perf_street_id_from_name.cpp",
+		"/C/Users/Terre/Desktop/libstreetmap/src/m1.cpp",
+		"/C/Users/Terre/dev/website/index.html",
+		"/C/Users/Terre/Desktop/libstreetmap/src/Map_Instruction.h",
+		"/C/Users/Terre/Desktop/libstreetmap/src/Map_Instruction.cpp",
+		"/C/Users/Terre/Desktop/A1_YangShu_yshu/Robot.java",
+		"/C/Users/Terre/Desktop/A1_YangShu_yshu/RobotGame.java",
+		"/C/Users/Terre/Desktop/A1_YangShu_yshu/Hangmandemo.java",
+		"/C/Users/Terre/Desktop/A1_YangShu_yshu/Hangman.java",
+		"/C/Users/Terre/dev/test/HelloWorldC/header/hello.cpp",
+		"/C/Users/Terre/dev/test/HelloWorldC/header/hello.h",
+		"/C/Users/Terre/dev/test/HelloWorldC/helloworld.cpp",
+		"/C/Program Files (x86)/Steam/steamapps/common/Don't Starve Together/mods/modsettings.lua",
+		"/C/Users/Terre/UofT/ECE297/project/gprof2dot.py",
+		"/C/Users/Terre/dev/Primer_C++/Chapter16/STL_example.cpp",
+		"/C/Users/Terre/dev/NeoMagellan/utils/__init__.py",
+		"/C/Users/Terre/dev/test/PythonImport/head/head.py",
+		"/C/Users/Terre/dev/test/PythonImport/main.py",
+		"/C/Users/Terre/dev/NeoMagellan/main.py",
+		"/C/Users/Terre/dev/NeoMagellan/static/js/course_select_controller.js",
+		"/C/Users/Terre/dev/NeoMagellan/static/js/comment_panel_controller.js",
+		"/C/Users/Terre/dev/NeoMagellan/static/css/course_select.css",
+		"/C/Users/Terre/dev/NeoMagellan/templates/header.html",
+		"/C/Users/Terre/dev/NeoMagellan/README.md",
+		"/C/Users/Terre/dev/test/PythonImport/head.py",
+		"/C/Users/Terre/dev/NeoMagellan/.gitignore",
+		"/C/Users/Terre/Desktop/hello.py",
+		"/C/Users/Terre/AppData/Roaming/Sublime Text 3/Packages/User/myC++.sublime-build",
+		"/C/Users/Terre/Desktop/links.json",
+		"/C/Users/Terre/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Terre/dev/test/HelloWorldC/helloworlrd.sublime-project",
+		"/C/Users/Terre/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Program Files/Python27/Scripts/pip2.exe"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"You've",
+			"check",
+			"home"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "zhizhi22.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								394,
+								394
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "zhizhi22.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1477,
+								1477
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1020.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/myC++.sublime-build",
+	"project": "zhizhi22.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

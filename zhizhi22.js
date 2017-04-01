@@ -62,8 +62,13 @@ function check()
 			break; 
 		}
 	}
-	if (winFlag)
-		document.getElementById("message").innerHTML = "只只22岁生日快乐！";
+	if (winFlag){
+		setTimeout(function(){$("#board").fadeOut(); }, 2000);
+		//$("#message").show();
+		//$("#message").fadeIn(10000);
+		window.location.replace("win/index.html");
+
+	}
 	else
 		document.getElementById("message").innerHTML = "&nbsp;";
 }
@@ -76,4 +81,6 @@ function match(id){
 
 }
 
+$("#message").hide();
 init();
+
