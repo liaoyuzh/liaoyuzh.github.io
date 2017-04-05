@@ -1,0 +1,30 @@
+3.21
+- Xingyu Ma built lego.
+
+3.22 
+- Xingyu Ma and Yuzhang Liao finished basic code for making sensor detecting hands and enabling motor.
+
+3.24
+- Xingyu Ma fixed small bug related to sensor not working in some cases.
+
+3.26
+- Yuzhang Liao added timer.
+
+3.27
+- Xingyu Ma integrated motor and timer.
+- Yuzhang Liao implemented basic random number generator.
+
+
+3.28
+- Yuchao Jin joins the group
+
+3.30 
+- Xingyu Ma fixed but related to the timer
+- Yuzhang Liao modified random number generator
+
+4.1
+- Yuzhang Liao changed the implementation of RNG by taking snapshot of timer
+- Xingyu Ma and Yuchao Jin worked on HEX display
+
+4.3 Yuchao Jin added parts to lego
+
