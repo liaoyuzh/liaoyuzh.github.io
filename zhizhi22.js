@@ -66,7 +66,7 @@ function check()
 		setTimeout(function(){$("#board").fadeOut(); }, 2000);
 		//$("#message").show();
 		//$("#message").fadeIn(10000);
-		window.location.replace("yunzhiii.com/winflag/index.html");
+		window.location.replace("winflag/index.html");
 
 	}
 	else
