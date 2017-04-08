@@ -36,7 +36,7 @@ function init()
 			newTd.style.fontWeight = "normal";
 			newTd.onclick = function(){flip(this); };
 			newTd.bgColor = "#ffffff";
-			//newTd.innerHTML = hint[i*17+j].toString();
+			newTd.innerHTML = hint[i*17+j].toString();
 			newTr.appendChild(newTd);
 			
 		}
@@ -66,7 +66,7 @@ function check()
 		setTimeout(function(){$("#board").fadeOut(); }, 2000);
 		//$("#message").show();
 		//$("#message").fadeIn(10000);
-		window.location.replace("yunzhiii.com/winflag/index.html");
+		window.location.replace("winflag/index.html");
 
 	}
 	else
