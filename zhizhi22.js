@@ -36,7 +36,7 @@ function init()
 			newTd.style.fontWeight = "normal";
 			newTd.onclick = function(){flip(this); };
 			newTd.bgColor = "#ffffff";
-			newTd.innerHTML = hint[i*17+j].toString();
+			//newTd.innerHTML = hint[i*17+j].toString();
 			newTr.appendChild(newTd);
 			
 		}
